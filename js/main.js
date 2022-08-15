@@ -1,7 +1,7 @@
 getFetch()
 
 function getFetch(){
-  const url = `https://api.unsplash.com/search/photos?query=kanye&per_page=100&client_id=gK52De2Tm_dL5o1IXKa9FROBAJ-LIYqR41xBdlg3X2k`
+  const url = `https://api.unsplash.com/search/photos?query=cityscape&per_page=500&client_id=gK52De2Tm_dL5o1IXKa9FROBAJ-LIYqR41xBdlg3X2k`
 
   fetch(url)
       .then(res => res.json()) // parse response as JSON
