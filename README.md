@@ -9,7 +9,7 @@ A simple web app that uses the Kanye West quotes and the Unsplash API's to gener
 
 Used fetch to retrieve data from the API's and Math.random to choose a random cityscape image which was then set as the background image. The quote was parsed into the inner text of a h1 in the HTML.
 
-**How to Run Locally**
+##How to Run Locally
 
 Live server
 
